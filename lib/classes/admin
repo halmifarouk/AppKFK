@@ -1,0 +1,5 @@
+import 'package:app_kfk/classes/users.dart';
+
+class Admin extends Users {
+  
+}

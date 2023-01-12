@@ -1,0 +1,4 @@
+import 'package:app_kfk/classes/users.dart';
+
+class Membres extends Users {
+}
